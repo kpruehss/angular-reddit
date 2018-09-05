@@ -2,7 +2,7 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 6.1.5.
 
-A deployed version can be found at [Angular Reddit](https://angular-reddit-gbpiwiynid.now.sh/)
+A deployed version can be found [here](https://angular-reddit-gbpiwiynid.now.sh/)
 
 ## Development server
 
